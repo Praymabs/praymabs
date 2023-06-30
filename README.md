@@ -2,7 +2,7 @@
 My name is Prayma Bishshash
 I am an independent and hardworking person. I am capable enough to lead myself and others in any situation. I would like to see myself as a responsible and challenging role.
 
-Skills:  HTML / CSS
+Skills:  HTML / CSS / PHP
 
 - 🔭 I’m currently working on this page. 
 
