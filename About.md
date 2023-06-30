@@ -1,6 +1,6 @@
 ### Hi there 👋, 
 My name is Prayma Bishshash
-I am an independent and hardworking person. I am capable enough to lead myself and others in any situation. I would like to see myself as a responsible and challenging role.
+I am an independent and hardworking person. I am capable enough to lead myself and others in any situation. I would like to see myself as a responsible and challenging role. I am highly interested in the domain of a Research and also developting site. I have worked on several projects in the past half a year and gained expertise in deep learning & machine learning technology.And In web development, i have already started working on projects and have a foundation in HTML, CSS, and PHP with continuous learning and practice. 
 
 Skills:  HTML / CSS / PHP
 
